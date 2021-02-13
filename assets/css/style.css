@@ -21,7 +21,7 @@ svg {
   fill: #e897dc;
   stroke: pink;
 }
-
+/* media queries to turn lion into Scar */
 @media screen and (max-width: 760px) {
   .mane {
     fill: #311d07;
