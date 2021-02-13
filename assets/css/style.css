@@ -1,0 +1,45 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+svg {
+  width: 40vw;
+}
+.mane {
+  fill: #f7931e;
+  stroke: #a06017;
+}
+.left-ear,
+.right-ear,
+.face {
+  fill: #f9db5d;
+}
+.left-ear-inner,
+.right-ear-inner,
+.nose {
+  fill: #e897dc;
+  stroke: pink;
+}
+
+@media screen and (max-width: 760px) {
+  .mane {
+    fill: #311d07;
+    stroke: #5c5650;
+  }
+  .left-ear,
+  .right-ear,
+  .face {
+    fill: #682409;
+  }
+  .left-ear-inner,
+  .right-ear-inner,
+  .nose {
+    fill: #42283e;
+    stroke: rgb(102, 79, 83);
+  }
+  .right-eye,
+  .left-eye {
+    fill: green;
+  }
+}
