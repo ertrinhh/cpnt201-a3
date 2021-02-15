@@ -9,6 +9,7 @@
 ## Assignment 2 - SVG Graphics
 
 I drew a lion svg, and used media queries to change the color around 760px width.
+Renamed all the classes to reflect each part of the lion, so I did not add comments since it seemed self-explainatory
 
 ## Honorable Mentions
 
